@@ -14,3 +14,6 @@ Nodemon restarts the file just at the momemt we save it
 
     export const DB_NAME = "videotube"
 
+
+[Model LINK](https://drive.google.com/file/d/1myGJb7KODpgnpwTZ3jaFmdYKWYMWHXRC/view?usp=sharing)
+

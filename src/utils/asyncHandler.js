@@ -25,5 +25,5 @@ const asyncHandler = (fn) => async (req, res, next) => ( //in this line we are u
             message: error.message //error message is sent to the user
         })
     }
-) 
+)  
 */
